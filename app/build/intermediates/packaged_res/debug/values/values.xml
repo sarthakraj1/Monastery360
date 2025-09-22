@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="accent_color">#FFFFC107</color>
+    <color name="background_light">#FFF8F9FA</color>
+    <color name="black">#FF000000</color>
+    <color name="card_background">#FFFFFFFF</color>
+    <color name="divider">#FFE0E0E0</color>
+    <color name="primary_color">#FF2E7D32</color>
+    <color name="primary_dark">#FF1B5E20</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="text_primary">#FF212121</color>
+    <color name="text_secondary">#FF757575</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Monastery 360</string>
+    <string name="home_subtitle">Explore sacred places in 3D</string>
+    <string name="home_title">Welcome to Monastery 360</string>
+    <string name="info_description">Monastery 360 is your gateway to exploring the world\'s most beautiful and sacred monasteries. Experience these spiritual places through immersive 3D views and detailed information about their rich history and cultural significance.</string>
+    <string name="info_title">About Monastery 360</string>
+    <string name="map_button">Show on Map</string>
+    <string name="monasteries_title">Sacred Monasteries</string>
+    <string name="nav_booking">Booking</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_info">Info</string>
+    <string name="nav_monasteries">Monasteries</string>
+    <string name="placeholder_3d">3D View Placeholder</string>
+    <string name="placeholder_3d_description">Interactive 3D monastery view will be displayed here</string>
+    <style name="Theme.Monastery360" parent="Theme.Material3.DayNight">
+        
+        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/accent_color</item>
+        <item name="colorSecondaryVariant">@color/accent_color</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+        <item name="android:windowBackground">@color/background_light</item>
+    </style>
+</resources>

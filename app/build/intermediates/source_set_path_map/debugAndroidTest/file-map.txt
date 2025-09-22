@@ -1,0 +1,6 @@
+com.monastery360.tourism.test.app-core-1.5.0-0 C:\Users\sarth\.gradle\caches\8.12\transforms\c2b6070799eb7d775b30857be572dbc7\transformed\core-1.5.0\res
+com.monastery360.tourism.test.app-annotation-experimental-1.3.0-1 C:\Users\sarth\.gradle\caches\8.12\transforms\e1d398dfa6401e790a6ad9214839da63\transformed\annotation-experimental-1.3.0\res
+com.monastery360.tourism.test.app-androidTest-2 D:\Monastery 360\app\build\generated\res\resValues\androidTest\debug
+com.monastery360.tourism.test.app-mergeDebugAndroidTestResources-3 D:\Monastery 360\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.monastery360.tourism.test.app-mergeDebugAndroidTestResources-4 D:\Monastery 360\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.monastery360.tourism.test.app-merged_res-5 D:\Monastery 360\app\build\intermediates\merged_res\debugAndroidTest

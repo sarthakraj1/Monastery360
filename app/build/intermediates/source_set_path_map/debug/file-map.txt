@@ -1,0 +1,64 @@
+com.monastery360.tourism.app-lifecycle-runtime-2.6.2-0 C:\Users\sarth\.gradle\caches\8.12\transforms\065425a858e5546d45fe3017c73f7f0d\transformed\lifecycle-runtime-2.6.2\res
+com.monastery360.tourism.app-savedstate-1.2.1-1 C:\Users\sarth\.gradle\caches\8.12\transforms\06c908247155789959a5e8ccb85362c6\transformed\savedstate-1.2.1\res
+com.monastery360.tourism.app-lifecycle-viewmodel-ktx-2.6.2-2 C:\Users\sarth\.gradle\caches\8.12\transforms\13a41b462ee240365a4e94df97936adb\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.monastery360.tourism.app-play-services-auth-20.7.0-3 C:\Users\sarth\.gradle\caches\8.12\transforms\14400cb0ae825c3a9923d5b9e4e8ac85\transformed\play-services-auth-20.7.0\res
+com.monastery360.tourism.app-core-ktx-1.12.0-4 C:\Users\sarth\.gradle\caches\8.12\transforms\148067ea41f441eafc72a63a83764cdb\transformed\core-ktx-1.12.0\res
+com.monastery360.tourism.app-databinding-adapters-8.1.4-5 C:\Users\sarth\.gradle\caches\8.12\transforms\1c2d4b57b9cf1903919adf3279064db5\transformed\databinding-adapters-8.1.4\res
+com.monastery360.tourism.app-recyclerview-1.3.2-6 C:\Users\sarth\.gradle\caches\8.12\transforms\2307ea9dabd40d6260fda48fcb3c72d8\transformed\recyclerview-1.3.2\res
+com.monastery360.tourism.app-navigation-ui-2.7.5-7 C:\Users\sarth\.gradle\caches\8.12\transforms\23c2445c14002498e5f3c9ef55b5f256\transformed\navigation-ui-2.7.5\res
+com.monastery360.tourism.app-navigation-runtime-ktx-2.7.5-8 C:\Users\sarth\.gradle\caches\8.12\transforms\2463f60c3b3f38545d46a216766d8087\transformed\navigation-runtime-ktx-2.7.5\res
+com.monastery360.tourism.app-startup-runtime-1.1.1-9 C:\Users\sarth\.gradle\caches\8.12\transforms\27b7c147ed8b7557a5a91e5eeeed3f4f\transformed\startup-runtime-1.1.1\res
+com.monastery360.tourism.app-navigation-common-2.7.5-10 C:\Users\sarth\.gradle\caches\8.12\transforms\2884f0562cbff6d0b66f5e9418df8e0a\transformed\navigation-common-2.7.5\res
+com.monastery360.tourism.app-customview-poolingcontainer-1.0.0-11 C:\Users\sarth\.gradle\caches\8.12\transforms\2ae4ee78c4432aa666a02f93904362af\transformed\customview-poolingcontainer-1.0.0\res
+com.monastery360.tourism.app-cardview-1.0.0-12 C:\Users\sarth\.gradle\caches\8.12\transforms\364fa3923de04d60c93b276f5199cf3e\transformed\cardview-1.0.0\res
+com.monastery360.tourism.app-transition-1.4.1-13 C:\Users\sarth\.gradle\caches\8.12\transforms\3c4aa7dd112a54e8941feb056cf0d7c3\transformed\transition-1.4.1\res
+com.monastery360.tourism.app-glide-4.16.0-14 C:\Users\sarth\.gradle\caches\8.12\transforms\46a686b59a696b2f2351d1d5c12ed2ff\transformed\glide-4.16.0\res
+com.monastery360.tourism.app-appcompat-resources-1.6.1-15 C:\Users\sarth\.gradle\caches\8.12\transforms\4bbf0f40f9ab71f5d645f3bcf1211259\transformed\appcompat-resources-1.6.1\res
+com.monastery360.tourism.app-appcompat-1.6.1-16 C:\Users\sarth\.gradle\caches\8.12\transforms\5160e96862bb4d3ab6c50743c7661e2b\transformed\appcompat-1.6.1\res
+com.monastery360.tourism.app-profileinstaller-1.3.0-17 C:\Users\sarth\.gradle\caches\8.12\transforms\52ddffbbbad49576a9ac8b089ab6c264\transformed\profileinstaller-1.3.0\res
+com.monastery360.tourism.app-viewpager2-1.1.0-beta02-18 C:\Users\sarth\.gradle\caches\8.12\transforms\546e99ff3d0213ecea5c78ea8092840f\transformed\viewpager2-1.1.0-beta02\res
+com.monastery360.tourism.app-window-1.0.0-19 C:\Users\sarth\.gradle\caches\8.12\transforms\57747e030614652ba15d752e74fb8f87\transformed\window-1.0.0\res
+com.monastery360.tourism.app-filament-android-1.17.1-20 C:\Users\sarth\.gradle\caches\8.12\transforms\5f7be56d9e0417f713ba380e095d6b9f\transformed\filament-android-1.17.1\res
+com.monastery360.tourism.app-navigation-fragment-2.7.5-21 C:\Users\sarth\.gradle\caches\8.12\transforms\63c451e21c4b806e89409aca83119b9a\transformed\navigation-fragment-2.7.5\res
+com.monastery360.tourism.app-constraintlayout-2.1.4-22 C:\Users\sarth\.gradle\caches\8.12\transforms\68c3c794ac2be0cc18bd45e383526506\transformed\constraintlayout-2.1.4\res
+com.monastery360.tourism.app-savedstate-ktx-1.2.1-23 C:\Users\sarth\.gradle\caches\8.12\transforms\6d086fac20d201ddd4fcbf4bb8bf1e44\transformed\savedstate-ktx-1.2.1\res
+com.monastery360.tourism.app-material-1.10.0-24 C:\Users\sarth\.gradle\caches\8.12\transforms\7015c808c0605a84ec28b4c5b43b26cb\transformed\material-1.10.0\res
+com.monastery360.tourism.app-core-1.15.0-25 C:\Users\sarth\.gradle\caches\8.12\transforms\82b38fcfe8b60e4eea985229b234fed7\transformed\core-1.15.0\res
+com.monastery360.tourism.app-navigation-fragment-ktx-2.7.5-26 C:\Users\sarth\.gradle\caches\8.12\transforms\83ef24c544d7bc670eaa1f5fa09c9f69\transformed\navigation-fragment-ktx-2.7.5\res
+com.monastery360.tourism.app-activity-1.8.0-27 C:\Users\sarth\.gradle\caches\8.12\transforms\9401346aec923a1e9e55addf08618480\transformed\activity-1.8.0\res
+com.monastery360.tourism.app-lifecycle-process-2.6.2-28 C:\Users\sarth\.gradle\caches\8.12\transforms\9e397fd58f7d05f46a73bbdadc679628\transformed\lifecycle-process-2.6.2\res
+com.monastery360.tourism.app-play-services-base-18.0.1-29 C:\Users\sarth\.gradle\caches\8.12\transforms\9fd691e0e45eb7c8edc217f9480f2cb8\transformed\play-services-base-18.0.1\res
+com.monastery360.tourism.app-lifecycle-livedata-core-2.6.2-30 C:\Users\sarth\.gradle\caches\8.12\transforms\a4791805bcb79837fb5a3223900035f4\transformed\lifecycle-livedata-core-2.6.2\res
+com.monastery360.tourism.app-preference-ktx-1.2.1-31 C:\Users\sarth\.gradle\caches\8.12\transforms\a89db6d6a37740eea98be2f9a6e5105e\transformed\preference-ktx-1.2.1\res
+com.monastery360.tourism.app-webkit-1.8.0-32 C:\Users\sarth\.gradle\caches\8.12\transforms\abbf1da0be7b93e6cabaa4a14e9c8428\transformed\webkit-1.8.0\res
+com.monastery360.tourism.app-emoji2-1.2.0-33 C:\Users\sarth\.gradle\caches\8.12\transforms\b2471fd882c591d60e42516271879dcc\transformed\emoji2-1.2.0\res
+com.monastery360.tourism.app-lifecycle-service-2.6.2-34 C:\Users\sarth\.gradle\caches\8.12\transforms\b2f30be225016cf8ba6f2795b0567fec\transformed\lifecycle-service-2.6.2\res
+com.monastery360.tourism.app-activity-ktx-1.8.0-35 C:\Users\sarth\.gradle\caches\8.12\transforms\b3ef7b1de2f7b9477ad4415ae37392f5\transformed\activity-ktx-1.8.0\res
+com.monastery360.tourism.app-fragment-1.6.2-36 C:\Users\sarth\.gradle\caches\8.12\transforms\b42223e72c17137508bededc68b42541\transformed\fragment-1.6.2\res
+com.monastery360.tourism.app-lifecycle-viewmodel-2.6.2-37 C:\Users\sarth\.gradle\caches\8.12\transforms\b4ec9665c184b24ceeb8a05e070459fa\transformed\lifecycle-viewmodel-2.6.2\res
+com.monastery360.tourism.app-preference-1.2.1-38 C:\Users\sarth\.gradle\caches\8.12\transforms\b59fea00e4125f1e2d8452fdc152994b\transformed\preference-1.2.1\res
+com.monastery360.tourism.app-emoji2-views-helper-1.2.0-39 C:\Users\sarth\.gradle\caches\8.12\transforms\b69adc622669a2bc4a9139f5c6f62831\transformed\emoji2-views-helper-1.2.0\res
+com.monastery360.tourism.app-fragment-ktx-1.6.2-40 C:\Users\sarth\.gradle\caches\8.12\transforms\bbd867369e46f4fe28832089247cf805\transformed\fragment-ktx-1.6.2\res
+com.monastery360.tourism.app-slidingpanelayout-1.2.0-41 C:\Users\sarth\.gradle\caches\8.12\transforms\bc7c7d971b6028847302fd57272f239a\transformed\slidingpanelayout-1.2.0\res
+com.monastery360.tourism.app-drawerlayout-1.1.1-42 C:\Users\sarth\.gradle\caches\8.12\transforms\bd23a42b341aec6421ec947b29a75375\transformed\drawerlayout-1.1.1\res
+com.monastery360.tourism.app-core-1.12.0-43 C:\Users\sarth\.gradle\caches\8.12\transforms\bd900f741b98ed809f398eef0384dce8\transformed\core-1.12.0\res
+com.monastery360.tourism.app-navigation-runtime-2.7.5-44 C:\Users\sarth\.gradle\caches\8.12\transforms\ced4b05ec4459c2d67e09625673c53e5\transformed\navigation-runtime-2.7.5\res
+com.monastery360.tourism.app-lifecycle-runtime-ktx-2.6.2-45 C:\Users\sarth\.gradle\caches\8.12\transforms\d0e1a6a06a5a7331591c450ac79527d2\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.monastery360.tourism.app-lifecycle-livedata-core-ktx-2.6.2-46 C:\Users\sarth\.gradle\caches\8.12\transforms\dc4d26d89674b028447ef09ce4eac3db\transformed\lifecycle-livedata-core-ktx-2.6.2\res
+com.monastery360.tourism.app-play-services-basement-18.2.0-47 C:\Users\sarth\.gradle\caches\8.12\transforms\e1691cade3ba2a5bb0c8b5aed38c2a1a\transformed\play-services-basement-18.2.0\res
+com.monastery360.tourism.app-annotation-experimental-1.3.0-48 C:\Users\sarth\.gradle\caches\8.12\transforms\e1d398dfa6401e790a6ad9214839da63\transformed\annotation-experimental-1.3.0\res
+com.monastery360.tourism.app-lifecycle-viewmodel-savedstate-2.6.2-49 C:\Users\sarth\.gradle\caches\8.12\transforms\e750c2894f4259451230b3e5e67184f1\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.monastery360.tourism.app-lifecycle-livedata-2.6.2-50 C:\Users\sarth\.gradle\caches\8.12\transforms\ea48bacc162f43c8ee3f63b058826667\transformed\lifecycle-livedata-2.6.2\res
+com.monastery360.tourism.app-rendering-1.17.1-51 C:\Users\sarth\.gradle\caches\8.12\transforms\eb33d3c335f61d1830eecab2cae406c8\transformed\rendering-1.17.1\res
+com.monastery360.tourism.app-navigation-common-ktx-2.7.5-52 C:\Users\sarth\.gradle\caches\8.12\transforms\ee62f32a1ca108cf16e4046917cabce2\transformed\navigation-common-ktx-2.7.5\res
+com.monastery360.tourism.app-coordinatorlayout-1.1.0-53 C:\Users\sarth\.gradle\caches\8.12\transforms\eed7ccca09ebace3cd8a726c68f647a1\transformed\coordinatorlayout-1.1.0\res
+com.monastery360.tourism.app-navigation-ui-ktx-2.7.5-54 C:\Users\sarth\.gradle\caches\8.12\transforms\f09601085c387d552798d156848d938d\transformed\navigation-ui-ktx-2.7.5\res
+com.monastery360.tourism.app-databinding-runtime-8.1.4-55 C:\Users\sarth\.gradle\caches\8.12\transforms\f8bef73f53b826f3472a464b410a3875\transformed\databinding-runtime-8.1.4\res
+com.monastery360.tourism.app-core-runtime-2.2.0-56 C:\Users\sarth\.gradle\caches\8.12\transforms\ffb1eb08e8d842be4ebdf870d4ca861c\transformed\core-runtime-2.2.0\res
+com.monastery360.tourism.app-pngs-57 D:\Monastery 360\app\build\generated\res\pngs\debug
+com.monastery360.tourism.app-resValues-58 D:\Monastery 360\app\build\generated\res\resValues\debug
+com.monastery360.tourism.app-packageDebugResources-59 D:\Monastery 360\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.monastery360.tourism.app-packageDebugResources-60 D:\Monastery 360\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.monastery360.tourism.app-merged_res-61 D:\Monastery 360\app\build\intermediates\merged_res\debug
+com.monastery360.tourism.app-debug-62 D:\Monastery 360\app\src\debug\res
+com.monastery360.tourism.app-main-63 D:\Monastery 360\app\src\main\res

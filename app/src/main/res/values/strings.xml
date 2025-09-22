@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Monastery 360</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_monasteries">Monasteries</string>
+    <string name="nav_booking">Booking</string>
+    <string name="nav_info">Info</string>
+    <string name="home_title">Welcome to Monastery 360</string>
+    <string name="home_subtitle">Explore sacred places in 3D</string>
+    <string name="map_button">Show on Map</string>
+    <string name="monasteries_title">Sacred Monasteries</string>
+    <string name="info_title">About Monastery 360</string>
+    <string name="info_description">Monastery 360 is your gateway to exploring the world\'s most beautiful and sacred monasteries. Experience these spiritual places through immersive 3D views and detailed information about their rich history and cultural significance.</string>
+    <string name="placeholder_3d">3D View Placeholder</string>
+    <string name="placeholder_3d_description">Interactive 3D monastery view will be displayed here</string>
+</resources>

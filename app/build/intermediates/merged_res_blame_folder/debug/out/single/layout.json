@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\sarth\\.gradle\\daemon\\8.12\\com.monastery360.tourism.app-mergeDebugResources-60:\\layout\\glb_model_viewer.xml",
+        "source": "C:\\Users\\sarth\\.gradle\\daemon\\8.12\\com.monastery360.tourism.app-main-63:\\layout\\glb_model_viewer.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarth\\.gradle\\daemon\\8.12\\com.monastery360.tourism.app-mergeDebugResources-60:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\sarth\\.gradle\\daemon\\8.12\\com.monastery360.tourism.app-main-63:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarth\\.gradle\\daemon\\8.12\\com.monastery360.tourism.app-mergeDebugResources-60:\\layout\\fragment_info.xml",
+        "source": "C:\\Users\\sarth\\.gradle\\daemon\\8.12\\com.monastery360.tourism.app-main-63:\\layout\\fragment_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarth\\.gradle\\daemon\\8.12\\com.monastery360.tourism.app-mergeDebugResources-60:\\layout\\item_booking.xml",
+        "source": "C:\\Users\\sarth\\.gradle\\daemon\\8.12\\com.monastery360.tourism.app-main-63:\\layout\\item_booking.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarth\\.gradle\\daemon\\8.12\\com.monastery360.tourism.app-mergeDebugResources-60:\\layout\\item_monastery.xml",
+        "source": "C:\\Users\\sarth\\.gradle\\daemon\\8.12\\com.monastery360.tourism.app-main-63:\\layout\\item_monastery.xml"
+    },
+    {
+        "merged": "com.monastery360.tourism.app-mergeDebugResources-60:/layout/glb_model_viewer.xml",
+        "source": "com.monastery360.tourism.app-main-63:/layout/glb_model_viewer.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarth\\.gradle\\daemon\\8.12\\com.monastery360.tourism.app-mergeDebugResources-60:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\sarth\\.gradle\\daemon\\8.12\\com.monastery360.tourism.app-main-63:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarth\\.gradle\\daemon\\8.12\\com.monastery360.tourism.app-mergeDebugResources-60:\\layout\\fragment_booking.xml",
+        "source": "C:\\Users\\sarth\\.gradle\\daemon\\8.12\\com.monastery360.tourism.app-main-63:\\layout\\fragment_booking.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarth\\.gradle\\daemon\\8.12\\com.monastery360.tourism.app-mergeDebugResources-60:\\layout\\fragment_monasteries.xml",
+        "source": "C:\\Users\\sarth\\.gradle\\daemon\\8.12\\com.monastery360.tourism.app-main-63:\\layout\\fragment_monasteries.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarth\\.gradle\\daemon\\8.12\\com.monastery360.tourism.app-mergeDebugResources-60:\\layout\\feature_item.xml",
+        "source": "C:\\Users\\sarth\\.gradle\\daemon\\8.12\\com.monastery360.tourism.app-main-63:\\layout\\feature_item.xml"
+    }
+]

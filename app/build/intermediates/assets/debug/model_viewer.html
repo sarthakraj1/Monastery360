@@ -1,0 +1,109 @@
+<!--<!DOCTYPE html>-->
+<!--<html lang="en">-->
+<!--<head>-->
+<!--    <meta charset="UTF-8">-->
+<!--    <meta name="viewport" content="width=device-width, initial-scale=1.0">-->
+<!--    <title>3D Model Viewer</title>-->
+<!--    <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>-->
+<!--    <style>-->
+<!--        html, body { height: 100%; margin: 0; background: #0b0f14; overflow: hidden; }-->
+<!--        model-viewer { width: 100%; height: 100%; &#45;&#45;poster-color: #0b0f14; }-->
+<!--        .badge { position: absolute; left: 16px; top: 16px; color: #fff; font: 500 14px system-ui; background: rgba(12,18,24,.55); padding: 8px 12px; border-radius: 12px; backdrop-filter: blur(8px); transition: opacity .3s ease; }-->
+<!--    </style>-->
+<!--</head>-->
+<!--<body>-->
+<!--<model-viewer src="assets/model.glb"-->
+<!--              alt="3D Model"-->
+<!--              camera-controls-->
+<!--              background-color="#f8f9fa"-->
+<!--&gt;-->
+<!--</model-viewer>-->
+<!--</body>-->
+<!--</html>-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3D Model Viewer</title>
+    <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+            background: #0b0f14;
+            overflow: hidden;
+        }
+
+        model-viewer {
+            width: 100vw;
+            height: 100vh;
+            --poster-color: #0b0f14;
+            --progress-bar-color: #29abe2;
+            touch-action: none; /* Allows proper zoom and pan gestures */
+        }
+
+        /* Optional: Status badge on top left */
+        .badge {
+            position: absolute;
+            left: 16px;
+            top: 16px;
+            color: #fff;
+            font: 500 14px system-ui;
+            background: rgba(12,18,24,.55);
+            padding: 8px 12px;
+            border-radius: 12px;
+            backdrop-filter: blur(8px);
+            transition: opacity .3s ease;
+        }
+    </style>
+</head>
+<body>
+
+<model-viewer
+        src="/assets/model.glb"
+        alt="3D Model"
+        camera-controls
+        background-color="#0b0f14"
+        interaction-prompt="auto"
+        min-camera-orbit="auto 30deg 0.2m"
+        max-camera-orbit="auto 100deg 4m"
+        field-of-view="45deg"
+        max-field-of-view="75deg"
+        id="mv">
+</model-viewer>
+
+<script>
+    const mv = document.getElementById('mv');
+
+    // Optional: fallback sources if loading fails
+    const sources = [
+        'assets/model.glb',
+        'file:///android_asset/model.glb',
+        'model.glb'
+    ];
+
+    let idx = 0;
+
+    function tryNext(reason){
+        if (idx >= sources.length) {
+            console.error('Failed to load model.glb. Ensure it is in app/src/main/assets/.');
+            return;
+        }
+        const src = sources[idx++];
+        console.log('Loading model… (' + src + (reason ? ' | ' + reason : '') + ')');
+        mv.src = src;
+    }
+
+    mv.addEventListener('error', () => {
+        tryNext('previous source failed');
+    });
+
+    // Kick off loading
+    tryNext();
+</script>
+
+</body>
+</html>
+
